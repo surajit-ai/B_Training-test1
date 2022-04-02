@@ -1,0 +1,7 @@
+E:\Bassetti training\.net\Exam1\Exam1\bin\Debug\Exam1.exe.config
+E:\Bassetti training\.net\Exam1\Exam1\bin\Debug\Exam1.exe
+E:\Bassetti training\.net\Exam1\Exam1\bin\Debug\Exam1.pdb
+E:\Bassetti training\.net\Exam1\Exam1\obj\Debug\Exam1.csproj.AssemblyReference.cache
+E:\Bassetti training\.net\Exam1\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
+E:\Bassetti training\.net\Exam1\Exam1\obj\Debug\Exam1.exe
+E:\Bassetti training\.net\Exam1\Exam1\obj\Debug\Exam1.pdb
